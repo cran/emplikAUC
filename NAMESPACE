@@ -1,0 +1,7 @@
+export(smooth3, smooth3vec, smooth5vec, findULNEW, findLnew, findUnew)
+export(eltest4aucONE, eltest4paucONE, eltest4paucT)
+export(el2testPauc, el2testPaucT, el2test4auc)
+export(quantONE, myEstPaucT, EL2paucT1T2)
+importFrom(stats, pchisq, qchisq, uniroot, quantile, optimize)
+importFrom(emplik2, el2.cen.EMm, el2.cen.EMs)
+importFrom(rootSolve, multiroot)
