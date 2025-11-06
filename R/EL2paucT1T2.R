@@ -13,7 +13,7 @@ H2 <- H12 - partial2
 H3 <- H13 - (1-partial1)
 Hmat <- cbind(H1, H2, H3)
 
-el2.cen.EMm(x=x, dx=dx, y=y, dy=dy, p=3, H=Hmat, mean=c(0,0,0), maxit=25)$"-2LLR"
+el2.cen.EMm(x=x, dx=dx, y=y, dy=dy, p=3, H=Hmat, mean=c(0,0,0), maxit=30)$"-2LLR"
 }
 
 ##### depend on the package emplik2. 

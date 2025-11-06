@@ -1,5 +1,5 @@
 export(smooth3, smooth0, smoothLvec, smooth3vec, smooth5vec, findULNEW, findLnew, findUnew)
-export(eltest4aucONE, eltest4paucONE, eltest4paucT)
+export(eltest4aucONE, eltest4paucONE, eltest4paucT, eltest4diff2auc)
 export(el2testPauc, el2testPaucT, el2test4auc)
 export(quantONE, myEstPaucT, EL2paucT1T2)
 importFrom(stats, pchisq, qchisq, uniroot, quantile, optimize)

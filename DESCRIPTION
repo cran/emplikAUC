@@ -1,5 +1,5 @@
 Package: emplikAUC
-Version: 0.4
+Version: 0.5
 Title: Empirical Likelihood Ratio Test/Confidence Interval for AUC or
         pAUC
 Authors@R: c(     
@@ -21,6 +21,6 @@ NeedsCompilation: no
 Author: Mai Zhou [aut, cre, cph],
   Xue Ding [aut],
   Yumin Zhao [aut]
-Packaged: 2024-05-29 08:53:36 UTC; maizh
+Packaged: 2025-11-05 23:35:18 UTC; maizh
 Repository: CRAN
-Date/Publication: 2024-05-30 03:20:06 UTC
+Date/Publication: 2025-11-06 07:10:03 UTC

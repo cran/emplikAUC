@@ -1,6 +1,26 @@
 July 5, 2022. Version 0.2
 
-Rool up of the functions from the web page
-http://www.ms.uky.edu/~mai/Rcode/emplikAUC.R
+Roll up of the functions from the web page
+https://www.ms.uky.edu/~mai/Rcode/emplikAUC.R
+into a package.
+
+
+Jan. 13, 2023. Version 0.3 
+
+Eliminating two functions for compute confidence intervals.
+
+
+
+May 30, 2024. Version 0.4
+
+Add function smooth0. 
+Fix the Rd file for the internal functions.
+
+Nov.  2025, Version 0.5 
+
+Add function eltest4diff2auc
+for paired two sample, testing AUC1-AUC2 =theta
+
+
 
 

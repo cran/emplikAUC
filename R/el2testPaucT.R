@@ -11,7 +11,7 @@ H1 <- H11*H12 - pauc
 H2 <- H12 - partial 
 Hmat <- cbind(H1, H2)
 
-el2.cen.EMm(x=x, dx=dx, y=y, dy=dy, p=2, H=Hmat, mean=c(0,0), maxit=25)$"-2LLR"
+el2.cen.EMm(x=x, dx=dx, y=y, dy=dy, p=2, H=Hmat, mean=c(0,0), maxit=30)$"-2LLR"
 }
 
 ###### The same test function but using DX algorithm is called eltest4paucT(). ####
